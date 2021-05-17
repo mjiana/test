@@ -75,10 +75,10 @@ ___
 __＼*＼*Text＼*＼*__ 
 _＼_Tom＼__
 
-GitHub supports emoji! 
-https://www.webfx.com/tools/emoji-cheat-sheet/
+GitHub supports emoji!   
+https://www.webfx.com/tools/emoji-cheat-sheet/  
 :+1: :sparkles: :camel: :tada: 
 :rocket: :metal: :octocat:
 
-https://shields.io/
+https://shields.io/  
 <img src="https://img.shields.io/badge/license-mit-orange"> 
