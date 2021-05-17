@@ -23,7 +23,7 @@ Ordered
 위 문장에서 두 칸의 공백을 두어 강제 개행할 수 있습니다.
 
 첫번째 방법 
-![Github logo](/images/markdown_4(1).jpg) 
+![Github logo](/images/markdown_4(1).jpg)  
 Format: ![이미지 alt명](url 링크) 
 
 두번째 방법 
